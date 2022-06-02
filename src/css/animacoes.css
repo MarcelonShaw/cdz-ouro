@@ -1,0 +1,9 @@
+@keyframes c-glowing-blue {
+    0% {
+      box-shadow: 0 0 5px var(--cor-dourada), 0 0 5px var(--cor-dourada), 0 0 15px var(--cor-dourada), 0 0 20px var(--cor-azul-principal), 0 0 10px var(--cor-azul-principal), 0 0 10px var(--cor-dourada), 0 0 10px var(--cor-dourada), 0 0 10px var(--cor-dourada)
+    }
+  
+    to {
+      box-shadow: 0 0 2.5px var(--cor-dourada), 0 0 2.5px var(--cor-dourada), 0 0 7.5px var(--cor-dourada), 0 0 10px var(--cor-dourada), 0 0 5px var(--cor-dourada), 0 0 5px var(--cor-dourada), 0 0 5px var(--cor-dourada), 0 0 2px var(--cor-dourada)
+    }
+  }
